@@ -6,7 +6,6 @@ Read the documentaion here:
 
 https://multishot-tomography.readthedocs.io/en/latest/
 
-------------------------------------------
 # Authors
 
 - Sagar Khavnekar
