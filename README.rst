@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+GitHub repository for Mulishot Tomography documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
 
-Read the tutorial here:
+Read the documentaion here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://multishot-tomography.readthedocs.io/en/latest/
