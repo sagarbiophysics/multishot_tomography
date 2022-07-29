@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Multishot TOmography'
+project = 'Multishot Tomography'
 copyright = '2022, Sagar Khavnekar'
 author = 'Sagar Khavnekar'
 
