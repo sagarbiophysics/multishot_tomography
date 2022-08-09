@@ -4,7 +4,7 @@ The team
 Members of the Multishot Tomography Documentation team in alphabetical order.
 
 
-#Current members
+Current members
 ---------------
 
 
@@ -15,6 +15,6 @@ Sagar Khavnekar
 
 Short Biography.
 
-#Past members
-------------
+.. Past members
+.. ------------
 
