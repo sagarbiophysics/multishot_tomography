@@ -13,8 +13,7 @@ Contents
 
 -   :doc:`Whats-new`
 -   :doc:`Team`
--   :doc:`SerialEM_old/index`
--   :doc:`SerialEM_python/index`
+-   :doc:`SerialEM/index`
 -   :doc:`Tomo5/index`
 -   :doc:`Reference/index`
 
@@ -26,7 +25,6 @@ Contents
 
     Whats-new
     Team
-    SerialEM_old/index
-    SerialEM_python/index
+    SerialEM/index
     Tomo5/index
     Reference/index
