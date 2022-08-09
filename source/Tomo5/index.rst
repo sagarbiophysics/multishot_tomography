@@ -1,8 +1,9 @@
-Multishot Tomography using Tomography 5
+Tomography 5
 =======================================
+Multishot Tomography using Tomography 5
 
 .. toctree::
    :maxdepth: 2
-
-   #getting started
+   Tomo_5
+   
    
