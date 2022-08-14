@@ -41,6 +41,7 @@ To start, make sure your is Low dose mode :sembutton:`Record [Rec]`.
 Open a blank script using :semmenu:`Script` and type following script command.
 
 ::
+
     ImageShiftByMicrons 0 0
 
 
@@ -59,6 +60,7 @@ For the second shot we will have to Image shift by 1.2 µ.
 Edit the script to Image shift by 1.2 microns and execute using :semmenu:`Run`.
 
 ::
+
     ImageShiftByMicrons 1.2 0
 
 Continue by clicking :semmenu:`Save Iamge Shift` to save image shift for second shot. 
@@ -68,6 +70,7 @@ For the third shot we will have to Image shift by -2.4 µ with respect to second
 Edit the script to Image shift by -2.4 microns and execute using :semmenu:`Run`.
 
 ::
+    
     ImageShiftByMicrons -2.4 0
 
 Continue by clicking :semmenu:`Save Iamge Shift` to save image shift for second shot. 
