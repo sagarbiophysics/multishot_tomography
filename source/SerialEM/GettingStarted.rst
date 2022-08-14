@@ -57,7 +57,7 @@ Under :semmenu:`Calibration` > :semmenu:`Focus & Tuning` menu, you will find :se
 
     Fig 2. Starting Coma vs. Image shift Calibration
 
-Once you click on it, You would be promted to input ampunt of maximum image shift (IS). 
+Once you click on it, You would be promted to input Extent of maximum image shift (IS). 
 You will have to make sure apriori that there is carbon (or any other feature that results in sufficientl number of thon rings) in the field of View (FOV) when such large IS is applied. 
 
 .. figure:: images/prep_fig3.png
