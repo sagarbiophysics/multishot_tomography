@@ -1,4 +1,4 @@
-GitHub repository for Mulishot Tomography documentation
+GitHub repository for Multishot Tomography documentation
 =======================================
 
 

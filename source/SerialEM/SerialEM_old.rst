@@ -70,7 +70,7 @@ For the third shot we will have to Image shift by -2.4 µ with respect to second
 Edit the script to Image shift by -2.4 microns and execute using :semmenu:`Run`.
 
 ::
-    
+
     ImageShiftByMicrons -2.4 0
 
 Continue by clicking :semmenu:`Save Iamge Shift` to save image shift for second shot. 
@@ -80,7 +80,7 @@ Click on :semmenu:`End Pattern`.
 You can always :semmenu:`Abort`, and start again. 
 
 
-Once the custom patter is saved you should be able to select checkbox for :semmenu:`Use custom pattern`.
+Once the custom pattern is saved you should be able to select checkbox for :semmenu:`Use custom pattern`.
 
 Finally, Check following boxes:
 
