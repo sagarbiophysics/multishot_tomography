@@ -15,7 +15,7 @@ Sagar Khavnekar
 
 Short Biography.
 
-Philipp Erdmanns
+Philipp Erdmann
 ^^^^^^^^^^^^^^^
 
 `Google Scholar <https://scholar.google.com/citations?user=pCHFZzQAAAAJ&hl=de>`_
