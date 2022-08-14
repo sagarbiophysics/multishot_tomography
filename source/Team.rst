@@ -11,14 +11,14 @@ Current members
 Sagar Khavnekar
 ^^^^^^^^^^^^^^^
 
-`Google Scholar <https://scholar.google.com/citations?user=KYEJ7WkAAAAJ&hl=en&oi=ao>`__
+`Google Scholar <https://scholar.google.com/citations?user=KYEJ7WkAAAAJ&hl=en&oi=ao>`_
 
 Short Biography.
 
-Philipp Erdmann
+Philipp Erdmanns
 ^^^^^^^^^^^^^^^
 
-`Google Scholar <https://scholar.google.com/citations?user=pCHFZzQAAAAJ&hl=de>`__
+`Google Scholar <https://scholar.google.com/citations?user=pCHFZzQAAAAJ&hl=de>`_
 
 Short Biography.
 
