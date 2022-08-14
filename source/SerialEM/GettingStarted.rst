@@ -10,7 +10,7 @@ We want to achieve following goals:
 But first, make sure you go through follwing preparation steps.
 
 Preparations
-^^^^^^^^^^^^
+------------
 
 Find a spot on the grid with sufficiently large carbon area. 
 I prefer to use a continuous carbon or R1/4 grid for this specific purpose.

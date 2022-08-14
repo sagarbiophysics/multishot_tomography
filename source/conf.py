@@ -25,11 +25,9 @@ rst_prolog = """
    :class: smallcaps
 
 .. role:: schemevar
-.. role:: button
-.. role:: runbutton
-.. role:: joblist
-.. role:: jobtype
-.. role:: guitab
+.. role:: semmenu_sel
+.. role:: semmenu
+.. role:: sembutton
 """
 
 # -- General configuration ---------------------------------------------------
