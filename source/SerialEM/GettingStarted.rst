@@ -9,6 +9,7 @@ We want to achieve following goals:
 - Calibrate Coma vs Image shift
 But first, make sure you go through follwing preparation steps.
 
+
 Preparations
 ------------
 
@@ -26,6 +27,8 @@ Once everything is setup, make sure that the sample is in euccentric height (run
 
 In the end, make sure that the objective aperture is retracted. 
 
+
+
 Tune Astigmatism and Coma
 -------------------------
 
@@ -37,6 +40,8 @@ Click on :semmenu:`Focus/Tune` > :semmenu_sel:`Correct Astigmatism by CTF`.
 Next, click on :semmenu:`Focus/Tune` > :semmenu_sel:`Coma-free alignment by CTF`.
 
 I would recommend using the script from `Wim Hagen <https://serialemscripts.nexperion.net/script/47>`_.
+
+
 
 Calibrate Coma vs Image shift
 -----------------------------
