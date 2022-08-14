@@ -21,7 +21,7 @@ At this point it is also important to make sure there is no Image shift between 
 Once everything is setup, make sure that the sample is in euccentric height (run euccentric both) and run autofocus routine. 
 
 .. figure:: images/prep_fig1.png
-    :width: 400px
+    :width: 600px
 
     Fig 1. Setting Euccentric height both.
 
@@ -51,7 +51,7 @@ Please consult with your Microscope manager before continuing with this step.
 Under :semmenu:`Calibration` > :semmenu:`Focus & Tuning` menu, you will find :semmenu:`Coma vs. Image Shift`. 
 
 .. figure:: images/prep_fig2.png
-    :width: 200px
+    :width: 400px
 
     Fig 2. Starting Coma vs. Image shift Calibration
 
@@ -59,7 +59,7 @@ Once you click on it, You would be promted to input ampunt of maximum image shif
 You will have to make sure apriori that there is carbon (or any other feature that results in sufficientl number of thon rings) in the field of View (FOV) when such large IS is applied. 
 
 .. figure:: images/prep_fig3.png
-    :width: 200px
+    :width: 400px
 
     Fig 3. Setting maximum image shift for Coma vs. Image Shift Calibration
 
@@ -67,7 +67,7 @@ If the calibration is succesful, you would be prompted to input current C2 apert
 
 .. figure:: images/prep_fig4.png
     :width: 1000px
-    
+
     Fig 4. Setting C2 Aperture size after successful completion of Coma vs. Image shift calibration.
 
 At this step, if you used a calibration grid, load the grid you want to acquire tilt series on and find a sport with some carbon or area which results in sufficient number of Thon rings. 
