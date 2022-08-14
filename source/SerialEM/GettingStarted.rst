@@ -11,7 +11,7 @@ But first, make sure you go through follwing preparation steps.
 
 
 Preparations
-------------
+------------------
 
 Find a spot on the grid with sufficiently large carbon area. 
 I prefer to use a continuous carbon or R1/4 grid for this specific purpose.
@@ -30,7 +30,7 @@ In the end, make sure that the objective aperture is retracted.
 
 
 Tune Astigmatism and Coma
--------------------------
+------------------
 
 Enable live FFT under :semmenu:`Process` > :semmenu_sel:`Live FFT`. Select :semmenu:`Process` > :semmenu_sel:`FFT`.
 Make sure :semmenu:`Record` and :semmenu:`Trial` parameters give sufficient number of Thon rings. 
@@ -44,7 +44,7 @@ I would recommend using the script from `Wim Hagen <https://serialemscripts.nexp
 
 
 Calibrate Coma vs Image shift
------------------------------
+------------------
 
 Please consult with your Microscope manager before continuing with this step. 
 
