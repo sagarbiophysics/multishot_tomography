@@ -69,25 +69,25 @@ dl.field-list > dd > p:empty {
     font-style: italic;
 }
 
-.runbutton {
-    background-color: rgb(160, 30, 60);
+.semmenu_sel {
+    background-color: rgb(152, 199, 217);
     border: 1px; border-radius: 3px;
     padding: 2px 4px 2px 4px;
 }
 
-.button {
-    background-color: rgb(200, 80, 110);
+.semmenu {
+    background-color: rgb(235, 235, 235);
     border: 1px; border-radius: 3px;
     padding: 2px 4px 2px 4px;
 }
 
-.joblist {
-    background-color: rgb(230, 230, 240);
+.sembutton {
+    background-color: rgb(18, 219, 0);
     border: 1px; border-radius: 3px;
     padding: 2px 4px 2px 4px;
 }
 
-.jobtype {
+/* .jobtype {
     border: 1px solid black;
     border-radius: 3px;
     padding: 2px 4px 2px 4px;
@@ -98,3 +98,4 @@ dl.field-list > dd > p:empty {
    border: 1px; border-radius: 3px;
    padding: 2px 4px 2px 4px;
 }
+ */

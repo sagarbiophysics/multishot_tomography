@@ -6,7 +6,6 @@ Multishot Tomography using SerialEM
    :maxdepth: 2
    
    GettingStarted
-   ComaVsISCals
    SerialEM_old
    SerialEM_python
    
