@@ -5,8 +5,10 @@ Here we outline how to setup SerialEM for multishot acquisition.
 Please cosult your Microscope Manager before you follow these steps.
 
 We want to achieve following goals: 
-- Tune Astigmatism and Coma
-- Calibrate Coma vs Image shift
+
+- Tune Astigmatism and Coma.
+- Calibrate Coma vs Image shift.
+
 But first, make sure you go through follwing preparation steps.
 
 
