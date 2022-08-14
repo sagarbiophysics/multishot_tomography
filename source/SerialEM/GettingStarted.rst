@@ -67,6 +67,7 @@ If the calibration is succesful, you would be prompted to input current C2 apert
 
 .. figure:: images/prep_fig4.png
     :width: 1000px
+    
     Fig 4. Setting C2 Aperture size after successful completion of Coma vs. Image shift calibration.
 
 At this step, if you used a calibration grid, load the grid you want to acquire tilt series on and find a sport with some carbon or area which results in sufficient number of Thon rings. 
