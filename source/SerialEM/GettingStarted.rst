@@ -32,12 +32,12 @@ In the end, make sure that the objective aperture is retracted.
 Tune Astigmatism and Coma
 ------------------
 
-Enable live FFT under :semmenu:`Process` > :semmenu_sel:`Live FFT`. Select :semmenu:`Process` > :semmenu_sel:`FFT`.
+Enable live FFT under :semmenu:`Process` > :semmenusel:`Live FFT`. Select :semmenu:`Process` > :semmenusel:`FFT`.
 Make sure :semmenu:`Record` and :semmenu:`Trial` parameters give sufficient number of Thon rings. 
 
-Click on :semmenu:`Focus/Tune` > :semmenu_sel:`Correct Astigmatism by CTF`.
+Click on :semmenu:`Focus/Tune` > :semmenusel:`Correct Astigmatism by CTF`.
 
-Next, click on :semmenu:`Focus/Tune` > :semmenu_sel:`Coma-free alignment by CTF`.
+Next, click on :semmenu:`Focus/Tune` > :semmenusel:`Coma-free alignment by CTF`.
 
 I would recommend using the script from `Wim Hagen <https://serialemscripts.nexperion.net/script/47>`_.
 
@@ -73,6 +73,6 @@ At this step, if you used a calibration grid, load the grid you want to acquire 
 
 Continue by making sure the sample area is in euccentric height. 
 Insert and centre the Objective aperture. 
-Rerun :semmenu:`Focus/Tune` > :semmenu_sel:`Correct Astigmatism by CTF`.
+Rerun :semmenu:`Focus/Tune` > :semmenusel:`Correct Astigmatism by CTF`.
 
 You are now all set to acquire Multishot tilt series!

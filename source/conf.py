@@ -25,7 +25,7 @@ rst_prolog = """
    :class: smallcaps
 
 .. role:: schemevar
-.. role:: semmenu_sel
+.. role:: semmenusel
 .. role:: semmenu
 .. role:: sembutton
 """

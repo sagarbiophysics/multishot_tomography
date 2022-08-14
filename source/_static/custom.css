@@ -69,7 +69,7 @@ dl.field-list > dd > p:empty {
     font-style: italic;
 }
 
-.semmenu_sel {
+.semmenusel {
     background-color: rgb(152, 199, 217);
     border: 1px; border-radius: 3px;
     padding: 2px 4px 2px 4px;
