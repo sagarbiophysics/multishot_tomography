@@ -46,7 +46,7 @@ To make ``git diff`` easier to understand, each sentense should use a new line.
     Note the underline.
     You can use LaTeX math :math:`\sum x_i^2`.
 
-    We have custom tags for :button:`buttons`, :joblist:`joblists`, :jobtype:`jobtypes` and :guitab:`guitabs`.
+    We have custom tags for :semmenu:`SerialEM menu item`, :semmenu_sel:` slected SerialEM menu item`, and :sembutton:`SerialEM green button`.
     Custom tags will be updates as the documentation evolves. 
 
     This paragram is a bad example. Two sentences are in one line.
